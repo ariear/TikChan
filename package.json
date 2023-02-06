@@ -1,0 +1,21 @@
+{
+  "name": "tikchan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.2",
+    "cheerio": "^1.0.0-rc.12",
+    "qs": "^6.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ariear/TikChan.git"
+  },
+  "homepage": "https://github.com/ariear/TikChan#readme",
+  "author": "ariear",
+  "description": "This is the tiktok scraping package made with cheerio and axios",
+  "keywords": [
+    "tiktok", "scraping", "scrapper", "cheerio", "tiktok-scrapper", "indonesia", "tiktok-downloader","tiktok-api"
+  ]
+}
