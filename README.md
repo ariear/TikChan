@@ -42,7 +42,7 @@ $ yarn add tikchan
 Scripts
 
 ```js
- TikChan.download('https://www.tiktok.com/@gelap106/video/7160002182283054363?is_from_webapp=1&sender_device=pc&web_id=7196247961113200130').then(results => {
+ TikChan.download('https://www.tiktok.com/@gelap106/video/7160002182283054363').then(results => {
     console.log(results);
   }).catch(err => {
     console.log(err);    
